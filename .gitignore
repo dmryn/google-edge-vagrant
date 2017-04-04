@@ -1,0 +1,6 @@
+.vagrant
+.Vagrantfile.swp
+*.swp
+.DS_Store
+.idea
+site.retry
